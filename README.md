@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi there, my name is Hector Dominguez
+### I'm a fullstack web developer!
 
-<!--
-**HectorHJDH/HectorHJDH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![https://github.com/antoniolg](https://yt3.ggpht.com/V94-R66lnyAKjlb4LGhoxF1_XuNTeA6Y5r2WYrb3x6EYbqIw1Yh_uxUddgQACOmBJYPMFJ-FMXA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
-Here are some ideas to get you started:
+Fullstack Web Developer with 3 years of experience in fullstack web proyects with a passion for building impactful web applications that enhance user experiences and drive business growth. I thrive in collaborative environments, proactively contributing to team success while assisting others. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills:
+![HTML](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
+![CSS](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)</br>
+![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)</br>
+![Static Badge](https://img.shields.io/badge/hola)
+
+
+## Find me at:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio_Leiva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/hjdhector/)
