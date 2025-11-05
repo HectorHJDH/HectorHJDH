@@ -3,8 +3,8 @@
 I'm a Fullstack Web Developer with 3 years of experience in fullstack web proyects with a passion for building impactful web applications that enhance user experiences and drive business growth. I thrive in collaborative environments, proactively contributing to team success while assisting others. 
 
 ## Skills:
-![HTML](https://img.shields.io/badge/HTML-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
-![CSS](https://img.shields.io/badge/CSS-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)</br>
+![HTML](https://img.shields.io/badge/HTML-3DDC84?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)</br>
+![CSS](https://img.shields.io/badge/CSS-0095D5?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)</br>
 ![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)</br>
 ![Static Badge](https://img.shields.io/badge/hola)
 
