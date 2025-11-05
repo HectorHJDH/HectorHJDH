@@ -11,4 +11,4 @@ I'm a Fullstack Web Developer with 3 years of experience in fullstack web proyec
 
 ## Find me at:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio_Leiva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/hjdhector/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hjdhector-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/hjdhector/)
