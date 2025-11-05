@@ -1,10 +1,10 @@
-# 👋 Hi there, my name is Hector Dominguez
+333# 👋 Hi there, my name is Hector Dominguez
 
 I'm a Fullstack Web Developer with 3 years of experience in fullstack web proyects with a passion for building impactful web applications that enhance user experiences and drive business growth. I thrive in collaborative environments, proactively contributing to team success while assisting others. 
 
 ## Skills:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
+![CSS](https://img.shields.io/badge/CSS3-663399?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)
