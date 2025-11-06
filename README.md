@@ -1,6 +1,8 @@
 # 👋 Hi there, my name is Hector Dominguez
 
-I'm a Fullstack Web Developer with 3 years of experience in fullstack web proyects with a passion for building impactful web applications that enhance user experiences and drive business growth. I thrive in collaborative environments, proactively contributing to team success while assisting others. 
+I'm a Full-stack web developer with 3 years of experience building end-to-end web applications. With knowledge in JavaScript, TypeScript, ReactJS, HTML, CSS, NPM, Git, REST APIs, Express.js, Node.js, MongoDB, SQLyog, and Figma. I’m passionate about creating meaningful web solutions that enhance user experience and drive business growth.
+
+I work well in collaborative environments, actively contributing to team success and supporting others. My workflow is based on agile methodologies, and I’m known for being analytical, adaptable, ethical, creative, and highly focused on problem-solving. I stay motivated, patient, and flexible in fast-paced environments.
 
 ## Skills:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
